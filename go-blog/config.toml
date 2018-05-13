@@ -1,0 +1,27 @@
+baseURL = "http://areThereAnyUserNamesLeft.github.io"
+defaultContentLanguage = "en"
+languageCode = "en-GB"
+title = "Written using Hugo"
+theme = "dream"
+archetypesDir = "archetypes"
+buildDrafts = true
+about = "content/about/desc.md"
+
+[params]
+  author = "Richard Pape"
+  description = ""
+  avatar = "/imgs/whatElse.png"
+  motto = "wHaT ELse?"
+
+  email = "r1ch4rdP4p3@gmail.com"
+  github = "areThereAnyUserNamesLeft"
+  linkedin = "richard-pape-b4237b99"
+  #codepen = ""
+  #stackoverflow = ""
+
+  siteStartYear = 2018
+  aboutHeader = "About me"
+
+  paginate = 4
+
+  favicon = "/favicon.ico"
